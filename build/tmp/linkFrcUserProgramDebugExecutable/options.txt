@@ -34,11 +34,12 @@ C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\8b8270a5b35cf1
 C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\8b8270a5b35cf1e4d13e1762d0743031\\opencv-cpp-3.4.7-2-linuxathenadebug\\linux\\athena\\shared\\libopencv_videod.so.3.4
 C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\8b8270a5b35cf1e4d13e1762d0743031\\opencv-cpp-3.4.7-2-linuxathenadebug\\linux\\athena\\shared\\libopencv_videoiod.so.3.4
 C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\8b8270a5b35cf1e4d13e1762d0743031\\opencv-cpp-3.4.7-2-linuxathenadebug\\linux\\athena\\shared\\libopencv_videostabd.so.3.4
-C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\95a4d792b4ff719bfd9ca19d9603fbc9\\wpiapi-cpp-5.18.1-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_Phoenix_WPI.a
-C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\2a64b198691c25df73f12cb024e47833\\api-cpp-5.18.1-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_Phoenix.a
-C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\9998537acd6e506182d98c14154d8e96\\cci-5.18.1-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_PhoenixCCI.a
-C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\cd343d50cdb7003ed3fdfb1fbd92991c\\diagnostics-5.18.1-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_PhoenixDiagnostics.a
-C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\9da27363fe13a816376bc10c55d63cd5\\core-5.18.1-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_PhoenixCore.a
+C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\17bae116c37b56b43b422b6a8810f70e\\wpiapi-cpp-5.18.2-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_Phoenix_WPI.a
+C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\1da34f3faaca4448de5ae47573ed1e81\\api-cpp-5.18.2-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_Phoenix.a
+C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\37b651452471865eb1e26397caca0df4\\cci-5.18.2-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_PhoenixCCI.a
+C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\03a2f675e1f90fdbc1eb7c43f411c3e9\\diagnostics-5.18.2-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_PhoenixDiagnostics.a
+C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\a034457acf578c1c7819cce6ee8cdbce\\core-5.18.2-linuxathenastaticdebug\\linux\\athena\\static\\libCTRE_PhoenixCore.a
+C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\d6997863b2545edd9818146d25c2eb36\\wpilibNewCommands-cpp-2020.3.2-linuxathenadebug\\linux\\athena\\shared\\libwpilibNewCommandsd.so
 C:\\Users\\FIRSTMentor\\.gradle\\caches\\transforms-2\\files-2.1\\aae16690aefc40eedc7781d8ace07b97\\wpilibOldCommands-cpp-2020.3.2-linuxathenadebug\\linux\\athena\\shared\\libwpilibOldCommandsd.so
 -rdynamic
 -pthread
